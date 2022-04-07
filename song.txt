@@ -3,3 +3,4 @@ git add, git commit, git push
 сначала добавляем файлы через add, потом делаем коммит и синхронизируем локальный репозиторий
 с удаленным через git push
 changes
+delete changes
