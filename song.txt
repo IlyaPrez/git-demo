@@ -4,7 +4,3 @@ git add, git commit, git push
 с удаленным через git push
 
 
-in my mind
-in my head
-
-this is what we waiting for
